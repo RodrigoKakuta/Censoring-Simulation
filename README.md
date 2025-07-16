@@ -1,19 +1,19 @@
-# TCC - Análise de Sobrevivência com RShiny
+# Censoring Simulation with RShiny
 
-Este repositório reúne o trabalho de conclusão de curso (TCC) focado em Análise de Sobrevivência, com a implementação de uma aplicação interativa desenvolvida em **RShiny**.
+This repository brings together the final paper (TCC) focused on Survival Analysis, with the implementation of an interactive application developed in **RShiny**.
 
-## Sobre o Projeto
+## About the Project
 
-A Análise de Sobrevivência é uma área da estatística dedicada ao estudo do tempo até a ocorrência de um evento de interesse. Este projeto visa facilitar a compreensão da aplicação do conceito de Censura por meio de uma interface gráfica intuitiva.
+Survival Analysis is a field of statistics dedicated to the study of the time until the occurrence of an event of interest. This project aims to facilitate understanding of the application of the concept of Censorship through an intuitive graphical interface.
 
-## Funcionalidades
+## Features
 
-- Upload e análise de conjuntos de dados próprios
-- Estimação de curvas de sobrevivência (Kaplan-Meier)
-- Ferramentas de visualização interativas
-- Exportação de resultados e gráficos
+- Upload and analysis of custom datasets
+- Estimation of survival curves (Kaplan-Meier)
+- Interactive visualization tools
+- Export of results and graphs
 
-## Tecnologias Utilizadas
+## Technologies Used
 
 - [R](https://www.r-project.org/)
 - [Shiny](https://shiny.rstudio.com/)
